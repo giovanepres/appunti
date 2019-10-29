@@ -1,0 +1,12 @@
+#HTML
+
+Linguaggio di markup che si usa per costruire pagine web, che firmano un grafo di modi (pagine) collegati da link.
+
+Il markup language usa delle sequenze particolari di testo per descrivere "cose", ad esempio dare un significato e porzioni del testo.
+
+TITOLO
+
+paragrafo di prova
+
+<h1>TITOLO<h1>
+<p>paragrafo di prova<p>
